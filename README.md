@@ -9,7 +9,7 @@ https://github.com/anurag0345/flipkart-clone
 - Extraxt from any ZIP Extracter
 - Open `index.html` in any Browser
 
-## :page_facing_up: Changelog
+## :scroll: Changelog
 
 - Be sure to check out the [Changelog] and Read CHANGELOG.md
 
