@@ -21,6 +21,6 @@ https://github.com/anurag0345/flipkart-clone
 
 - Anurag Rajput (www.anuragrajput.com)
 
-## :page_facing_up: Disclaimer:
+## :memo: Disclaimer:
 
 **_Note: This Flipkart clone project is just for educational purpose._**
