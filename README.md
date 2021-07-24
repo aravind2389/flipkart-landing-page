@@ -1,6 +1,6 @@
 # Flipkart Clone Project:
 
-This is a simple clone of webpage flipkart.com using HTML and CSS. Check out the page at
+This is a simple clone of webpage flipkart.com using HTML, CSS and JavaScript. Check out the page at
 https://github.com/anurag0345/flipkart-landing-page
 
 ## How to use:
